@@ -34,8 +34,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https:
-cd your-repo
+git clone https://github.com/Rohit-Chavan29/Terraform_Secure_Scalable_Infra.git
+cd Terraform_Secure_Scalable_Infra
 Set up AWS credentials:
 
 You can configure AWS credentials using the aws configure command or by setting AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY as environment variables.
@@ -45,6 +45,7 @@ Initialize Terraform:
 bash
 Copy code
 terraform init
+
 Plan the infrastructure:
 
 bash
