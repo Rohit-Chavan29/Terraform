@@ -31,10 +31,8 @@ Before running this configuration, set up your AWS credentials. Terraform will u
 
 Getting Started
 Clone the repository:
-
-bash
-Copy code
 git clone https://github.com/Rohit-Chavan29/Terraform_Secure_Scalable_Infra.git
+
 cd Terraform_Secure_Scalable_Infra
 Set up AWS credentials:
 
@@ -42,21 +40,15 @@ You can configure AWS credentials using the aws configure command or by setting 
 
 Initialize Terraform:
 
-bash
-Copy code
 terraform init
 
 Plan the infrastructure:
-
-bash
-Copy code
 terraform plan
+
 This will show the resources that Terraform will create.
 
 Apply the configuration:
 
-bash
-Copy code
 terraform apply
 Type yes when prompted to confirm.
 
