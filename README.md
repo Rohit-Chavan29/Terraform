@@ -34,7 +34,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repo.git
+git clone https:
 cd your-repo
 Set up AWS credentials:
 
